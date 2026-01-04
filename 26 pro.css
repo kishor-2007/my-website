@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration:  overline underline black;
+    color: red;
+    font-size: 50px;
+}
+
+.sub{
+    text-decoration: underline goldenrod 5px;
+    color: darkgray;
+    font-size: 30px;
+    font-style: italic;
+}
+
+#first{
+    text-shadow: 2px 2px lightblue;
+    text-indent: 50px;
+    font-size: 20px;
+    color: darkgrey;
+}
+
+#second{
+    text-shadow: 3px 3px lightgrey;
+    text-indent: 50px;
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+#foot{
+     word-spacing: 5px;
+     font-weight: bolder;
+     font-size: arial;
+     color: blue;
+     text-shadow: 3px 3px lightgray;
+     text-indent: 50px;
+}
+
+#three{
+    text-decoration: underline 5px brown;
+    color: blanchedalmond;
+    font-size: 25px;
+}

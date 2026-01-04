@@ -1,0 +1,41 @@
+h1{
+    text-decoration: overline underline black;
+    text-transform: capitalize;
+    font-size: 40px;
+    background-color: aquamarine;
+    color: goldenrod;
+    height:fit-content;
+    width: fit-content;
+}
+
+div{
+    width: fit-content;
+    font-size: 35px;
+    padding: 25px;
+    background-color: rgb(255, 56, 56);
+}
+
+p{
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+#second{
+    text-transform: capitalize;
+}
+
+blockquote{
+    font-size: larger;
+    font-style: italic;
+    color: gold;
+}
+
+blockquote::before{
+    content: "''";
+    color: blue;
+}
+
+blockquote::after{
+    content: "''";
+    color: rgb(0, 130, 67);
+}
